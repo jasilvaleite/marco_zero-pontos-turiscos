@@ -1,0 +1,35 @@
+header {
+  font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+header, footer {
+  background: rgb(175, 163, 163);
+  color: greenyellow;
+  padding: 16px;
+}
+
+
+#logo-header {
+  font-size: 32px;
+}
+
+a {
+  text-decoration: none;
+  color:red;
+}
+
+main {
+  background-color: #efd619e0;
+  padding: 16px;
+  color:black;
+  font-family: 'Lucida Sans', Verdana, sans-serif;
+}
+
+img {
+  margin: 32px;
+}
+
+.rede-social {
+  font-family: 'Segoe UI', Verdana, sans-serif;
+  margin: 8px;
+}
